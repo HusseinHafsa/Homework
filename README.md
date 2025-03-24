@@ -1,13 +1,13 @@
-CLI, Command Line Interface, is the interface that runs programs for the computers operating systems through commands into a terminal window.
-The version control system is a system that keeps track of changes made in a project. We need it to help us manage those changes and go back to the last saved/committed code/coding.
-The main difference between Git and GitHub: Git is the tool, while GitHub is the site for projects using Git.
-Repository; main branch: the master, main Git. Other branches: can be the branches within the main Git.
-IDE: Integrated Development Environment is a Code editor for error detection, code compiler, and extension converter among other things
-Download VSC from the link in the curriculum folder. Follow the intructions on how to write commands and enter commits.
-Development tools are ones I am now familiar with.
-Jupyter Notebooks: in progress
-Python is a beginner programming language
-Python can be installed through the link in the curriculum, or in a quick google search for Python.
-Done
-In progress
-Some basics of debugging can be identifying and fixing errors in a line of code and program.
+# Hafsa Hussein
+## About Me
+#### I am very new to all things IT and data analytics, but I have a keen interest in learning. I enjoy to read. I read most genres, however my favorite would have to be short fiction. I also like to go on Walks, outdoor skating, and creating craftes such as arts and sewing as fun pasttimes with friends.
+### Goals for this course
+#### - Mastering how to think like a programmer by the end of this course
+#### - Mastering Python 
+#### - Finding employment 
+#### - Conquering my fear of learning the unknown, unseen, and uncharted paths of what could be the start of an incredible career path for myself.
+##### Data Analytics Article: 
+##### Inspirational photo: 
+![OIP](https://github.com/user-attachments/assets/d9c2feb4-7010-4a55-aff7-03f84839cb03)
+
+This image is a perfect visiual representation of what it feels like to have everything set up on  a Friday. Gearing up to work on it during the weekend, and then subsequently realizing there's something wrong. Spending the weekend on it, suddenly it is Monday, and you're still not done.
