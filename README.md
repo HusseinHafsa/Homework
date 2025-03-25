@@ -6,7 +6,7 @@
 #### - Mastering Python 
 #### - Finding employment 
 #### - Conquering my fear of learning the unknown, unseen, and uncharted paths of what could be the start of an incredible career path for myself.
-##### Data Analytics Article: 
+##### Data Analytics Article: [5 Advantages and Disadvantages Of Learning Python](https://www.educative.io/blog/why-learn-python).
 ##### Inspirational photo: 
 ![OIP](https://github.com/user-attachments/assets/d9c2feb4-7010-4a55-aff7-03f84839cb03)
 
